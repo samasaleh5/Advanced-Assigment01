@@ -8,7 +8,7 @@
             int[] Array1= { 5, 1, 4, 2, 8 };
             BubbleSort<int>.OptimizedBubbleSort(Array1);
             foreach (int i in Array1) 
-            { 
+            {
                 Console.WriteLine(i);
             }
             #endregion
